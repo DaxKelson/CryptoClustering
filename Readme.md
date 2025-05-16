@@ -56,8 +56,8 @@ The dataset (`crypto_market_data.csv`) contains price change percentage data for
 
 ## Author
 
-[Your Name]
+Dax Kelson
 
 ## Date
 
-[Submission Date]
+5/16/2025
